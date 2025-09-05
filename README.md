@@ -1,6 +1,8 @@
-# Estructuras en Python: Condicionales, iterativas y funciones
+# GA1 220501096 01 AA1 EV02 – Fundamentos de Python: estructuras de control y funciones.
 
-## Condicionales
+## Estructuras en Python: Condicionales, iterativas y funciones
+
+### Condicionales
 
 Condicionales if - else, if - elif - else, match - case y operadores ternarios. Cada ejercicio tendra una explicacion.
 
@@ -127,7 +129,7 @@ Condicionales if - else, if - elif - else, match - case y operadores ternarios. 
 41. [Función All](src/condicionales/41.funcion-all.py).
     Se utiliza la función all() para verificar si todos los elementos de una lista son verdaderos.
 
-## Iterativas
+### Iterativas
 
 1. [Bucle For con Frutas](src/iterativas/1.bucle-for-frutas.py).
    Se declara una lista de frutas y se itera sobre ella usando un bucle for para imprimir cada fruta.
