@@ -248,3 +248,131 @@ Condicionales if - else, if - elif - else, match - case y operadores ternarios. 
 
 40. [Sistema de Validación](src/iterativas/40.sistema-validacion.py).
     Se valida un formulario con campos requeridos y opcionales usando for-else y pass para opcionales.
+
+## Funciones
+
+1. [Saludar](src/funciones/1.saludar.py).
+   Se define una función simple que imprime un saludo básico al mundo.
+
+2. [Calcular Área Rectángulo](src/funciones/2.calcular_area_rectangulo.py).
+   Se implementa una función que calcula el área de un rectángulo dado su base y altura, retornando el resultado.
+
+3. [Es Par](src/funciones/3.es_par.py).
+   Se define una función que verifica si un número es par o impar.
+
+4. [Convertir Celsius a Fahrenheit](src/funciones/4.convertir_celsius_fahrenheit.py).
+   Se define una función que convierte temperatura de Celsius a Fahrenheit, incluyendo el uso de asignación de función a variable.
+
+5. [Calcular Descuento](src/funciones/5.calcular_descuento.py).
+   Se crea una función con parámetro opcional para calcular el precio final después de aplicar un descuento porcentual, demostrando el ámbito local de variables.
+
+6. [Saludar Persona](src/funciones/6.saludar_persona.py).
+   Se define una función que recibe un nombre como parámetro y imprime un saludo personalizado.
+
+7. [Calcular Precio Final](src/funciones/7.calcular_precio_final.py).
+   Se implementa una función que calcula el precio final sumando el impuesto al precio base.
+
+8. [Saludar Parámetro Default](src/funciones/8.saludar_parametro_default.py).
+   Se crea una función con parámetro opcional para saludar con mensaje predeterminado o personalizado.
+
+9. [Crear Perfil](src/funciones/9.crear_perfil.py).
+   Se define una función que crea un perfil con parámetros opcionales, mostrando el orden correcto de parámetros.
+
+10. [Dividir Argumentos](src/funciones/10.dividir_argumentos.py).
+    Se demuestra el uso de argumentos posicionales y por nombre en una función de división.
+
+11. [Crear Usuario](src/funciones/11.crear_usuario.py).
+    Se implementa una función que crea un diccionario de usuario con parámetros opcionales.
+
+12. [Calcular Pago](src/funciones/12.calcular_pago.py).
+    Se crea una función para calcular el pago total con tarifa y moneda opcionales.
+
+13. [Calcular Descuento con Validación](src/funciones/13.calcular_descuento_validacion.py).
+    Se implementa una función que calcula descuento con validación de argumentos.
+
+14. [Sumar Varios](src/funciones/14.sumar_varios.py).
+    Se demuestra el uso de \*args para sumar una cantidad variable de números.
+
+15. [Mostrar Información](src/funciones/15.mostrar_informacion.py).
+    Se utiliza \*\*kwargs para mostrar información con argumentos por nombre.
+
+16. [Formatear Texto](src/funciones/16.formatear_texto.py).
+    Se crea una función que formatea texto con múltiples opciones opcionales.
+
+17. [Calcular Cuadrado](src/funciones/17.calcular_cuadrado.py).
+    Se implementa una función simple que calcula el cuadrado de un número.
+
+18. [Saludar Sin Return](src/funciones/18.saludar_sin_return.py).
+    Se muestra una función que no retorna nada explícitamente.
+
+19. [Estadísticas](src/funciones/19.estadisticas.py).
+    Se calcula estadísticas básicas retornando múltiples valores.
+
+20. [Dividir Seguro](src/funciones/20.dividir_seguro.py).
+    Se implementa división segura con verificación de división por cero.
+
+21. [Es Mayor de Edad](src/funciones/21.es_mayor_de_edad.py).
+    Se verifica si una edad es mayor o igual a 18 y si un email es válido.
+
+22. [Formato Nombre](src/funciones/22.formato_nombre.py).
+    Se formatea un nombre en formato apellido, nombre.
+
+23. [Calcular Precio con IVA](src/funciones/23.calcular_precio_con_iva.py).
+    Se calcula el precio con IVA aplicado usando parámetro opcional.
+
+24. [Crear Lista Pares](src/funciones/24.crear_lista_pares.py).
+    Se crean listas de números pares y diccionarios con cuadrados usando comprehensions.
+
+25. [Filtrar Positivos](src/funciones/25.filtrar_positivos.py).
+    Se filtra números positivos de una lista con manejo de errores.
+
+26. [Calcular Descuento con Docstring](src/funciones/26.calcular_descuento_docstring.py).
+    Se calcula el precio con descuento usando docstring para documentación.
+
+27. [Calcular Promedio](src/funciones/27.calcular_promedio.py).
+    Se calcula el promedio de una lista de números, separando lógica de presentación.
+
+28. [Obtener Calificación](src/funciones/28.obtener_calificacion.py).
+    Se obtiene la calificación basada en una puntuación usando condicionales.
+
+29. [Convertir Temperatura](src/funciones/29.convertir_temperatura.py).
+    Se convierte temperatura entre unidades Celsius, Fahrenheit y Kelvin con validación.
+
+30. [Calcular Promedio con Docstring](src/funciones/30.calcular_promedio_docstring.py).
+    Se calcula el promedio de una lista de números usando docstring detallada.
+
+31. [Validar Email](src/funciones/31.validar_email.py).
+    Se verifica si una dirección de correo electrónico tiene formato válido con docstring completo.
+
+32. [Convertir a Celsius](src/funciones/32.convertir_a_celsius.py).
+    Se convierte temperatura de Fahrenheit a Celsius usando docstring con formato Sphinx.
+
+33. [Filtrar Pares](src/funciones/33.filtrar_pares.py).
+    Se filtra números pares de una lista usando docstring con formato NumPy.
+
+34. [Es Mayor de Edad](src/funciones/34.es_mayor_de_edad.py).
+    Se determina si una persona es mayor de edad usando docstring simple.
+
+35. [Es Mayor de Edad con Docstring](src/funciones/35.es_mayor_de_edad_docstring.py).
+    Se determina si una persona es mayor de edad usando docstring detallado.
+
+36. [Dividir Seguro con Docstring](src/funciones/36.dividir_seguro_docstring.py).
+    Se realiza división segura con docstring que incluye ejemplos.
+
+37. [Área Triángulo](src/funciones/37.area_triangulo.py).
+    Se calcula el área de un triángulo con docstring que incluye ejemplos.
+
+38. [Generar Contraseña](src/funciones/38.generar_contraseña.py).
+    Se genera una contraseña aleatoria con docstring que explica buenas prácticas.
+
+39. [Contar Palabras](src/funciones/39.contar_palabras.py).
+    Se cuenta el número de palabras en un texto con docstring claro.
+
+40. [Formatear Nombre](src/funciones/40.formatear_nombre.py).
+    Se formatea un nombre completo en formato "Apellido, Nombre" con docstring que incluye ejemplo.
+
+41. [Obtener Elemento](src/funciones/41.obtener_elemento.py).
+    Se obtiene un elemento de una lista por su índice con manejo de excepciones.
+
+42. [Calcular Precio Final](src/funciones/42.calcular_precio_final.py).
+    Se calcula el precio final aplicando descuento e impuesto con validación de parámetros.
